@@ -35,7 +35,7 @@ To use:
 Login as admin. Here you can create new admins, rooms and library members. As admin, you can book rooms for other members as well. You can also cancel bookings, provided the booking start time has not passed. 
 You may create users as admin or sign up from the login page to create regular library users who can book rooms for themselves. As a user, you can view your own booking history and cancel booking, provided the start time has not elapsed. All bookings can be done for two hour slots only. This was assumed based on the requirements.
 
-When logged in as a user or admin, you can edit your profile by clicking on your own name.
+When logged in as a user or admin, you can edit your profile by clicking on your name.
 
 To test: rake test
 
