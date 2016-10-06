@@ -39,13 +39,7 @@ When logged in as a user or admin, you can edit your profile by clicking on your
 
 To test: rake test
 
-Deleting a room with a booking:
-
-This is not possible in the app, as the delete button will not show for a room that has a booking.
-
-Deleting a user with a booking:
-
-This is not possible as the delete button does not show for a user with a booking. 
+Deleting a room/user with a booking:
 
 For both these cases, you must first cancel all bookings for that room or user and then delete the room/user.
 
